@@ -35,7 +35,7 @@ University Information:
 <p align = "left"><font face="Open Sans">
   *  University - University Of North Florida
   <br>
-  *  Degree - Finance
+  *  Degree - Computing & Information Sciences in Financial Technology
   <br>
   *  Focus - Financial Technology & Financial Modeling
   <br>

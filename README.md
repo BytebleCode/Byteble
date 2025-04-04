@@ -21,9 +21,9 @@ Businesses Founded, Owned, or Largely Contributed:
 <br>
 </h3>
 <p align = "left"><font face="Open Sans">
-  *  USTOHOME - International Market Analysis and shipping
+  *  USTOHOME - International Market Analysis and Shipping
   <br>
-  *  WTMNOW - Private Event Management
+  *  WTMNOW - Private Event Management Application
   <br>
   *  All Our Summers - Destination Rentals
   <br>

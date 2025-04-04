@@ -17,13 +17,13 @@
 </p>
 <br>
 <h3 align = "left"> 
-Businesses Managed/Managing:
+Businesses Founded, Owned, or Largely Contributed:
 <br>
 </h3>
 <p align = "left"><font face="Open Sans">
-  *  USTOHOME - International Shipping and Analysis
+  *  USTOHOME - International Market Analysis and shipping
   <br>
-  *  WTMNOW - Private Social Networking
+  *  WTMNOW - Private Event Management
   <br>
   *  All Our Summers - Destination Rentals
   <br>
@@ -37,6 +37,6 @@ University Information:
   <br>
   *  Degree - Computing & Information Sciences in Financial Technology
   <br>
-  *  Focus - Financial Technology & Financial Modeling
+  *  Focus - Artificial Intellgent Systems in Economic Markets, Financial Modeling, and the Real Estate Market.
   <br>
 </p>

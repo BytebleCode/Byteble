@@ -21,7 +21,11 @@ Businesses Founded, Owned, or Largely Contributed:
 <br>
 </h3>
 <p align = "left"><font face="Open Sans">
+  *  Axon Labs - NeuroTechnology Research Company
+  <br>
   *  USTOHOME - International Market Analysis and Shipping
+  <br>
+  *  TheTradeModule - Integrateble algorithmic trading backtester & platform with a custom LLM
   <br>
   *  WTMNOW - Private Event Management Application
   <br>
@@ -37,6 +41,6 @@ University Information:
   <br>
   *  Degree - Computing & Information Sciences in Financial Technology
   <br>
-  *  Focus - Artificial Intellgent Systems in Economic Markets, Financial Modeling, and the Real Estate Market.
+  *  Focus - Artificial Intellgenc in Economic Markets, Financial Modeling, Real Estate Markets, BioTechnology, General Intelligence Systems.
   <br>
 </p>
